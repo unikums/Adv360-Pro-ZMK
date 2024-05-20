@@ -1,5 +1,6 @@
 # Labaks UI risinajums !
 # https://nickcoutsos.github.io/keymap-editor/
+# https://www.youtube.com/watch?v=UkQR4uMd9wU
 
 # Kinesis Advantage 360 Pro ZMK Config!
 
